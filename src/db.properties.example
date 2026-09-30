@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/escape_enigma
+db.usuario=TU_USUARIO
+db.clave=TU_CONTRASEÑA
